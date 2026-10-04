@@ -1,3 +1,6 @@
+
+# Supported devices
+
 | Device                                                 | Codename | Status   |
 | ------------------------------------------------------ | -------- | -------- |
 | Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | miatoll  | Official |
