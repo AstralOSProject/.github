@@ -20,3 +20,7 @@ More devices will be added over time.
 
 **Device support is still in development and availability may change.**
 
+## Our Discord 
+
+https://discord.gg/WCUbsQx3kE
+
