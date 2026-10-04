@@ -12,6 +12,8 @@
 | Samsung Galaxy S10e|beyond0lte  | Official |
 | LG V30|joan  | Official |
 
+**[Full device list](other.md)**
+
 ## GSI
 
 AstralOS is also available as a **Generic System Image (GSI)** for compatible devices.
