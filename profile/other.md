@@ -8,3 +8,4 @@
 | Samsung Galaxy S20 FE 5G / 4G (Snapdragon)|r8q  | Official |
 | Samsung Galaxy S10e|beyond0lte  | Official |
 | LG V30|joan  | Official |
+| Samsung Galaxy S10|beyond1lte  | Official |
