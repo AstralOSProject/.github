@@ -9,3 +9,4 @@
 | Samsung Galaxy S10e|beyond0lte  | Official |
 | LG V30|joan  | Official |
 | Samsung Galaxy S10|beyond1lte  | Official |
+| Nothing Phone (2)|Pong  | Official |
