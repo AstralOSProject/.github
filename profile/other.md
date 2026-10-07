@@ -10,3 +10,4 @@
 | LG V30|joan  | Official |
 | Samsung Galaxy S10|beyond1lte  | Official |
 | Nothing Phone (2)|Pong  | Official |
+| Samsung Galaxy S7 (Exynos)|herolte  | Official |
