@@ -4,13 +4,14 @@
 
 ## Supported Devices
 
-| Device                                                 | Codename | Status   |
-| ------------------------------------------------------ | -------- | -------- |
-| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | miatoll  | Official |
-| Xiaomi Redmi Note 8| ginkgo  | Official |
-| Samsung Galaxy S20 FE 5G / 4G (Snapdragon)|r8q  | Official |
-| Samsung Galaxy S10e|beyond0lte  | Official |
-| LG V30|joan  | Official |
+| Device                                                 | Codename   | Status   | Maintainer    |
+| ------------------------------------------------------ | ---------- | -------- | ------------- |
+| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | miatoll    | Official | @bearbeing|
+| Xiaomi Redmi Note 8                                    | ginkgo     | Official | @jonte1809 |
+| Samsung Galaxy S20 FE 5G / 4G (Snapdragon)             | r8q        | Official | @bearbeing |
+| Samsung Galaxy S10e                                    | beyond0lte | Official | @bearbeing |
+| LG V30                                                 | joan       | Official | @bearbeing |
+
 
 **[Full device list](other.md)**
 **[AstralOS features](features.md)**
