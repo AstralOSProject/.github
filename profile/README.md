@@ -13,6 +13,7 @@
 | LG V30|joan  | Official |
 
 **[Full device list](other.md)**
+**[AstralOS features](features.md)**
 
 ## GSI
 
