@@ -6,7 +6,7 @@
 | **Lockscreen clock color** | Pick the colour of the lockscreen clock. |
 | **Extra dim** | An additional dimming step for lower brightness than stock. |
 | **Clock font** | Choose the typeface used for the lockscreen clock. |
-| **Glass styling** | Astral glass aesthetic throughout SystemUI — 36dp quick-settings tile radius and 80dp notification-shade blur. |
+| **Control center** | Completely new control center. |
 
 ### Gestures
 
