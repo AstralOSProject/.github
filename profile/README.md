@@ -1,3 +1,4 @@
+![AstralOS Logo](Frame5.png)
 # AstralOS
 
 **A free and open source custom ROM based on LineageOS.**
