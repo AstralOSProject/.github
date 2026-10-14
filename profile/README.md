@@ -11,8 +11,7 @@
 
 | Device                                                 | Codename   | Status   | Maintainer    |
 | ------------------------------------------------------ | ---------- | -------- | ------------- |
-| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | miatoll    | Official | @bearbeing|
-| Xiaomi Redmi Note 8                                    | ginkgo     | Official | @jonte1809 |
+| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | miatoll    | Official | @bearbeing |
 | Samsung Galaxy S20 FE 5G / 4G (Snapdragon)             | r8q        | Official | @bearbeing |
 | Samsung Galaxy S10e                                    | beyond0lte | Official | @bearbeing |
 | LG V30                                                 | joan       | Official | @bearbeing |
@@ -31,7 +30,7 @@ More devices will be added over time.
 
 ## Our Channels
 
-https://discord.gg/WCUbsQx3kE
+[![Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WCUbsQx3kE)
 
-https://t.me/+lRYgKvE7l-hiZGE0
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20our%20channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+lRYgKvE7l-hiZGE0)
 
