@@ -24,7 +24,9 @@ More devices will be added over time.
 
 **Device support is still in development and availability may change.**
 
-## Our Discord 
+## Our Channels (where you can find information about AstralOS)
 
 https://discord.gg/WCUbsQx3kE
+
+https://t.me/+lRYgKvE7l-hiZGE0
 
