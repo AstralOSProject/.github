@@ -10,3 +10,5 @@
 | Samsung Galaxy S10                                     | beyond1lte | Official | @bearbeing |
 | Nothing Phone (2)                                      | Pong | Official | @bearbeing |
 | Samsung Galaxy S7                                      | herolte | Official | @bearbeing |
+
+**More devices will be added soon.**
