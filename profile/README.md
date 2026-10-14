@@ -3,6 +3,10 @@
 
 **A free and open source custom ROM based on LineageOS.**
 
+
+![Android 15](https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![LineageOS 22.2](https://img.shields.io/badge/LineageOS-22.2-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+
 ## Supported Devices
 
 | Device                                                 | Codename   | Status   | Maintainer    |
