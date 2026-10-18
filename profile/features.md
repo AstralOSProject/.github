@@ -31,6 +31,7 @@
 
 - **Look Lock** enabled by default.
 - **Do Not Track** enabled by default.
+- **Reading mode**
 
 ### Branding
 
