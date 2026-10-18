@@ -1,30 +1,34 @@
 ![AstralOS Logo](Frame5.png)
+
 # AstralOS
 
-**A free and open source custom ROM based on LineageOS.**
+**A free and open-source custom ROM based on LineageOS.**
 
+AstralOS is an Android custom ROM developed by **[AstralOSProject](https://github.com/AstralOSProject)**.
+
+**This is the official GitHub organization for the AstralOS Android ROM project.** Find our source code, supported devices, features, and development updates here.
 
 ![Android 15](https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![LineageOS 22.2](https://img.shields.io/badge/LineageOS-22.2-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 ## Supported Devices
 
-| Device                                                 | Codename   | Status   | Maintainer    |
-| ------------------------------------------------------ | ---------- | -------- | ------------- |
-| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | miatoll    | Official | @bearbeing |
-| Samsung Galaxy S20 FE 5G / 4G (Snapdragon)             | r8q        | Official | @bearbeing |
-| Samsung Galaxy S10e                                    | beyond0lte | Official | @bearbeing |
-| LG V30                                                 | joan       | Official | @bearbeing |
-
+| Device | Codename | Status | Maintainer |
+|---|---|---|---|
+| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | `miatoll` | Official | @bearbeing |
+| Samsung Galaxy S20 FE 5G / 4G (Snapdragon) | `r8q` | Official | @bearbeing |
+| Samsung Galaxy S10e | `beyond0lte` | Official | @bearbeing |
+| LG V30 | `joan` | Official | @bearbeing |
 
 **[Full device list](other.md)**
+
 **[AstralOS features](features.md)**
 
 ## GSI
 
 AstralOS is also available as a **Generic System Image (GSI)** for compatible devices.
 
-More devices will be added over time.
+More devices may be added over time.
 
 **Device support is still in development and availability may change.**
 
@@ -34,3 +38,16 @@ More devices will be added over time.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20our%20channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+lRYgKvE7l-hiZGE0)
 
+[![X](https://img.shields.io/badge/X-Follow%20AstralOS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/astralosproject)
+
+[![TikTok](https://img.shields.io/badge/TikTok-Follow%20AstralOS-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@astralosproject)
+
+## Official Project
+
+- **Official GitHub organization:** https://github.com/AstralOSProject
+
+AstralOS refers here to the Android custom ROM developed by AstralOSProject. Other software projects may use similar names but are not necessarily affiliated with this project.
+
+---
+
+**AstralOS — Android, but refined.**
