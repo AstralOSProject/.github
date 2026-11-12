@@ -36,10 +36,6 @@ More devices may be added over time.
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WCUbsQx3kE)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20our%20channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+lRYgKvE7l-hiZGE0)
-
-[![X](https://img.shields.io/badge/X-Follow%20AstralOS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/astralosproject)
-
 [![TikTok](https://img.shields.io/badge/TikTok-Follow%20AstralOS-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@astralosproject)
 
 ## Official Project
