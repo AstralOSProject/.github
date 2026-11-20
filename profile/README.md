@@ -2,35 +2,47 @@
 
 # AstralOS
 
-**A free and open-source custom ROM based on LineageOS.**
+A free and open-source custom ROM based on LineageOS, the future of AOSP.
 
 AstralOS is an Android custom ROM developed by **[AstralOSProject](https://github.com/AstralOSProject)**.
 
-**This is the official GitHub organization for the AstralOS Android ROM project.** Find our source code, supported devices, features, and development updates here.
+This is the GitHub organization for the AstralOS Android ROM project. Find our source code, supported devices, features and development updates here.
 
 ![Android 15](https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ![LineageOS 22.2](https://img.shields.io/badge/LineageOS-22.2-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 ## Supported Devices
 
 | Device | Codename | Status | Maintainer |
+
 |---|---|---|---|
-| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | `miatoll` | Official | @bearbeing |
-| Samsung Galaxy S20 FE 5G / 4G (Snapdragon) | `r8q` | Official | @bearbeing |
-| Samsung Galaxy S10e | `beyond0lte` | Official | @bearbeing |
+
+| Xiaomi Redmi Note 9 Pro / 9 Pro Max / 9S / POCO M2 Pro | `miatoll` Official | @bearbeing |
+
+| Samsung Galaxy S20 FE 5G / 4G (Snapdragon) r8q` | Official | @bearbeing |
+
+| Samsung Galaxy S10e | `beyond0lte` Official | @bearbeing |
+
 | LG V30 | `joan` | Official | @bearbeing |
 
 **[Full device list](other.md)**
 
 **[AstralOS features](features.md)**
 
+# AstralAI
+
+Our AI application, built to bring artificial intelligence into an easy-to-use experience.
+
+AstralAI is powered by AstralAI NEXT, our AI model that we're developing as part of the project.
+
 ## GSI
 
-AstralOS is also available as a **Generic System Image (GSI)** for compatible devices.
+AstralOS is also available as a *Generic System Image (GSI)** for devices.
 
 More devices may be added over time.
 
-**Device support is still in development and availability may change.**
+Device support is still in development and availability may change.
 
 ## Our Channels
 
@@ -42,7 +54,7 @@ More devices may be added over time.
 
 - **Official GitHub organization:** https://github.com/AstralOSProject
 
-AstralOS refers here to the Android custom ROM developed by AstralOSProject. Other software projects may use similar names but are not necessarily affiliated with this project.
+AstralOS refers here to the Android custom ROM developed by AstralOSProject. Other software projects may use names but are not necessarily affiliated with this project.
 
 ---
 
